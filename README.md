@@ -1,8 +1,8 @@
 # Make the AI Judge Feel Proud: A Family Scene
 
-![Competition](https://make.fun/badge/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2.svg)
-![Rank](https://make.fun/badge/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/qw123gyj-dev/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/rank.svg)
-![Reward](https://make.fun/badge/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/qw123gyj-dev/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/reward.svg)
+[![Competition](https://make.fun/badge/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2.svg)](https://make.fun/competitions/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2)
+[![Rank](https://make.fun/badge/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/qw123gyj-dev/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/rank.svg)](https://make.fun/competitions/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2)
+[![Reward](https://make.fun/badge/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/qw123gyj-dev/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/reward.svg)](https://make.fun/competitions/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2)
 
 A deterministic entry picker for the make.fun bounty
 "Make the AI Judge Feel Proud: A Family Scene" ($2 prize pool).
